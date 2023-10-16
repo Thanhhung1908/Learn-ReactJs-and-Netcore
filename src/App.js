@@ -5,7 +5,7 @@ import { Home } from './Home';
 import { Department } from './Department';
 
 import { Employee } from './Employee';
-import { BrowserRouter, Route, Routes, Switch, NavLink } from 'react-router-dom';
+import { BrowserRouter, Route, Routes, NavLink } from 'react-router-dom';
 
 function App() {
   return (
